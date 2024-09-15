@@ -1,0 +1,10 @@
+Flask
+flask-cors
+tweepy
+praw
+python-dotenv
+nltk
+pandas
+joblib
+scikit-learn==1.3.2
+gunicorn
